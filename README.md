@@ -1,0 +1,1 @@
+This is Seay's first Git Project!
